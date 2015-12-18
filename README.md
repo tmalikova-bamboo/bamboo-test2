@@ -1,3 +1,3 @@
 # bamboo-test2
 
-# minor commit
+ну хватит уже!
